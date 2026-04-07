@@ -309,7 +309,7 @@ const ActionSection = () => {
                 src="https://www.instagram.com/reel/DWp6mL6j-Iw/embed/" 
                 className="w-full max-w-[320px] h-[480px] rounded-xl border border-white/10 shadow-xl bg-white"
                 scrolling="no"
-                allowTransparency={true}
+                allowtransparency="true"
                 allow="encrypted-media"
               ></iframe>
             </div>
